@@ -1,0 +1,25 @@
+.code {
+  font-size: 50px;
+  padding-left: 70px;
+}
+
+.failure {
+  color: #d9534f;
+}
+
+.success {
+  color: #5cb85c;
+}
+
+.form-inline {
+  margin-bottom: 10px;
+}
+
+.message {
+  font-weight: bold;
+}
+@media screen and (max-width:767px){
+    .skilx {
+        float:right !important;
+    }
+}
